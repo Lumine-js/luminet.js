@@ -1,0 +1,8 @@
+{
+  "name":"luminet.js",
+  "author":"Kanaka Nakazawa",
+  "version":"v1.0.0-experimental",
+  "dependencies":{
+    "axios": "^0.25.0"
+  }
+}
